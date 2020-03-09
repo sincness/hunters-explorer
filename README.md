@@ -1,4 +1,4 @@
-# Hunters Explorer
+# 🚀 Hunters Explorer
 * Application made in collaboration with students from Gran Carnaria & Aalborg Denmark.
 * The project is based on Angular, Ionic & Firebase.
 
